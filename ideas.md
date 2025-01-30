@@ -6,6 +6,7 @@ Overview of active topics:
 
 - [[ideas/meta#Todo: Commit Messages]]
 - [[ideas/lua/lua-language-server#Idea: json-schema support for types]]
+- [[ideas/mpd]] in general
 
 ## All topics
 
@@ -18,4 +19,8 @@ Overview of active topics:
 Notes concerning this repo itself.
 
 - [[ideas/meta]]
+
+### Music Player Daemon
+
+- [[ideas/mpd]]
 
