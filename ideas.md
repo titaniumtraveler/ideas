@@ -7,6 +7,9 @@ Overview of active topics:
 - [[ideas/meta#Todo: Commit Messages]]
 - [[ideas/lua/lua-language-server#Idea: json-schema support for types]]
 - [[ideas/mpd]] in general
+- [[ideas/cli/vegetable_oil]]
+  CLI Tool for [`oil`]-like transformations
+  [`oil`]: https://github.com/stevearc/oil.nvim
 
 ## All topics
 
@@ -23,4 +26,8 @@ Notes concerning this repo itself.
 ### Music Player Daemon
 
 - [[ideas/mpd]]
+
+### CLI
+
+- [[ideas/cli]]
 
